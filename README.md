@@ -1,1 +1,7 @@
-# simple-online-store
+STACK:
+
+- ReactJS + хуки
+- React Router
+- Axios
+- SCSS
+
